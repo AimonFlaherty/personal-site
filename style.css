@@ -1,0 +1,13 @@
+*{
+    font-family: 'Comfortaa', cursive;
+    /*font-family: 'Maven Pro', sans-serif;*/
+}
+
+
+/********* IDs *********/
+#menu{
+    float: right;
+}
+#name{
+    float: left;
+}
